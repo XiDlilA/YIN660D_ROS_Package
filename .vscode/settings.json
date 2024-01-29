@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/nuc/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/nuc/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
